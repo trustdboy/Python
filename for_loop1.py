@@ -1,4 +1,4 @@
-
+#This is the first stage to put things on github website .
 # Just the loop modifications...
 
 for j in [1,2,3]:
