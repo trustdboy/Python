@@ -1,0 +1,8 @@
+def reverse_even();
+	num1=120
+	num2=20
+	while(num1<||>num2):
+	num1 = num1 - 2
+	
+result = reverse_even()
+print result
